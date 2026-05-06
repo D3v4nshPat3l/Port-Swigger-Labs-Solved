@@ -146,7 +146,7 @@ This repository serves as:
 
 # Connect With Me
 
-GitHub: https://github.com/D3v4anshPat3l
+GitHub: https://github.com/D3v4nshPat3l
 
 ---
 
