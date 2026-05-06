@@ -80,21 +80,7 @@ Port-Swigger-Labs-Solved/
 
 ---
 
-# Example Lab Structure
 
-```bash
-Lab-Name/
-│
-├── README.md
-└── screenshots/
-    ├── 1-lab-overview.png
-    ├── 2-request.png
-    ├── 3-payload.png
-    ├── 4-exploitation.png
-    └── 5-lab-solved.png
-```
-
----
 
 # Learning Objectives
 
@@ -144,18 +130,7 @@ All labs are solved within the legal environment provided by PortSwigger Web Sec
 
 ---
 
-# Progress Tracker
 
-| Category | Status |
-|---|---|
-| SQL Injection | In Progress |
-| XSS | In Progress |
-| SSRF | In Progress |
-| Authentication | In Progress |
-| Access Control | In Progress |
-| File Upload Vulnerabilities | In Progress |
-
----
 
 # Why This Repository Exists
 
